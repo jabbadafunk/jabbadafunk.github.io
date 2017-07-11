@@ -10,6 +10,11 @@
   transform: translate(-50%, -50%)
 }
 
+.intro-logo-img {
+  max-width: 638px;
+  width: 100%;
+}
+
 .media {
   padding-top: 20px;
   padding-bottom: 40px;
