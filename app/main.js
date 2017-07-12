@@ -1,2 +1,2 @@
-var $ = window.$ = window.jQuery = require("jquery");
-$(document).ready(require('./js'));
+// var $ = window.$ = window.jQuery = require("jquery");
+// $(document).ready(require('./js'));
