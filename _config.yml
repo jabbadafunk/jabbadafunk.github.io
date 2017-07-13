@@ -11,3 +11,5 @@ youtube_video: RSLcdpiPk3s
 
 # playlist or track from souncloud, e.g. track/52172121
 soundcloud_player: playlists/336643204
+
+exclude: [ "README.md" ]
