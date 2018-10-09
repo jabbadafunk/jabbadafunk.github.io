@@ -25,11 +25,12 @@ img.intro-logo {
 
 .social-links {
   text-align: center;
+  margin-top: 60px;
 }
 
 .social-links a {
   color: white;
-  padding: 10px;
+  padding: 15px;
 }
 
 .social-links a:active { color: white; }
