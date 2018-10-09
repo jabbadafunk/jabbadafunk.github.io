@@ -4,13 +4,8 @@ meta_desc: funkrock mit rap
 
 facebook: https://fb.com/jabbadafunk
 soundcloud: https://soundcloud.com/user-763933125
-youtube: https://www.youtube.com/channel/UCILjsZyO_WtRSbfJIJoG_ZA
+youtube: https://www.youtube.com/watch?v=Qc6cF5pMobo
 instagram: https://www.instagram.com/jabbadafunk/
 
-# the video ID from youtube url, e.g. youtube.com/watch?v=RSLcdpiPk3s
-youtube_video: RSLcdpiPk3s
-
-# playlist or track from souncloud, e.g. track/52172121
-soundcloud_player: playlists/336643204
 
 exclude: [ "README.md" ]
