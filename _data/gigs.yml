@@ -1,16 +1,16 @@
--
-  location: Furtner Freising
+---
+- location: JUZ freising
+  date: 27.12.2018
+  completed: ''
+- location: Furtner Freising
   date: 22.12.2018
   completed: false
--
-  location: Furtner Freising
+- location: Furtner Freising
   date: 22.12.2018
   completed: false
--
-  location: Wohnheim I Freising
+- location: Wohnheim I Freising
   date: 22.10.2018
   completed: true
--
-  location: Wohnheim I Freising
+- location: Wohnheim I Freising
   date: 22.10.2018
   completed: true
