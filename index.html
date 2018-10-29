@@ -20,17 +20,21 @@ layout: default
 
 
 
-<!-- <div class="section about">
+<div class="section gigs">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <div class="about-text">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et
-        </div>
+        <ul class="gigs-content">
+        {% for gig in site.data.gigs %}
+          <li class="gigs-item {% if gig.completed %}completed{% endif %}">
+              {{ gig.date }}&nbsp;&nbsp;<strong>{{ gig.location }}</strong>
+          </li>
+        {% endfor %}
+        </ul>
       </div>
     </div>
   </div>
-</div> -->
+</div>
 
 <div class="section footer">
   <div class="container">
