@@ -27,7 +27,7 @@ layout: default
         <ul class="gigs-content">
         {% for gig in site.data.gigs %}
           <li class="gigs-item {% if gig.completed %}completed{% endif %}">
-              {{ gig.date }}&nbsp;&nbsp;<strong>{{ gig.location }}</strong>
+              {{ gig.date }}<br><strong>{{ gig.location }}</strong>
           </li>
         {% endfor %}
         </ul>
