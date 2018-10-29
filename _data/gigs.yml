@@ -1,7 +1,7 @@
 ---
 - location: JUZ freising
   date: 27.12.2018
-  completed: ''
+  completed: true
 - location: Furtner Freising
   date: 22.12.2018
   completed: false
