@@ -1,6 +1,6 @@
 ---
-- location: Bouldernight
-  date: 2019
+- location: Bouldernight Freising
+  date: Jan 2019
   completed: false
 - location: Furtner Freising
   date: 22.12.2018
@@ -11,6 +11,9 @@
 - location: Kultur ab Hof, Ach (AT)
   date: 21.07.2018
   completed: true
+- location: Bouldernight Freising
+  completed: true
+  date: 13.01.2018
 - location: Fest der Sinne Nandlstadt
   date: 24.06.2017
   completed: true
@@ -20,9 +23,6 @@
 - location: Nacht der Musik Freising
   date: 13.05.2017
   completed: true
-- location: Bouldernight
-  completed: true
-  date: 13.01.2018
 - location: Alte Mälzerei Regensburg
   date: 07.10.2016
   completed: true
