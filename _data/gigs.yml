@@ -1,9 +1,12 @@
 ---
-- location: Bouldernight Freising
+- location: 'Bouldernight '
   date: Jan 2019
   completed: false
-- location: Furtner Freising
+- location: 'Furtner Freising '
   date: 22.12.2018
+  completed: false
+- location: Roccadion Stuttgart
+  date: 01.12.2018
   completed: false
 - location: Wohnheim 2 Freising
   date: 22.10.2018
