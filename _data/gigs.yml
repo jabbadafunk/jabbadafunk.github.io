@@ -8,8 +8,11 @@
 - location: Roccadion Stuttgart
   date: 01.12.2018
   completed: false
-- location: Wohnheim 2 Freising
+- location: Studentenwohnheim 2 Bar Freising
   date: 22.10.2018
+  completed: true
+- location: Aster Sommer Fest
+  date: 01.09.2018
   completed: true
 - location: Kultur ab Hof, Ach (AT)
   date: 21.07.2018
