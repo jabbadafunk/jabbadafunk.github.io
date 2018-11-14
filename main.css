@@ -30,11 +30,15 @@ img.intro-logo {
 
 .social-links a {
   color: white;
-  padding: 15px;
+  padding: 10px;
+}
+
+.social-links a i {
+  text-shadow: 2px 2px 0px black, 3px 3px 0px #000, 1px 1px 0px #000, 0px 0px 1px #000;
 }
 
 .social-links a:active { color: white; }
-.social-links a:hover { color: black; }
+.social-links a:hover { color: #c0c0c0; }
 
 .footer {
   font-size: 12px;
