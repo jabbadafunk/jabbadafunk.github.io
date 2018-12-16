@@ -1,6 +1,21 @@
 ---
-- location: 'Bouldernight '
-  date: Jan 2019
+- location: Humulus Lupulus Open Air, Scheyern
+  date: 02.08.2019
+  completed: false
+- location: Nacht der Musik Freising
+  date: 11.05.2019
+  completed: false
+- location: Lindenkeller (Culture Clash powered by 3Klang e.V.), Freising
+  date: 30.04.2019
+  completed: false
+- location: Lindenkeller (Rainer von Vielen Support), Freising
+  date: 02.03.2019
+  completed: false
+- location: Backstage Club, München
+  date: 01.02.2019
+  completed: false
+- location: Bouldernight, FS
+  date: 12.01.2019
   completed: false
 - location: 'Furtner Freising '
   date: 22.12.2018
