@@ -1,49 +1,49 @@
 ---
 - location: Wudzdog Open Air, Dornstadt
-  date: 22.06.2019
+  date: 2019-06-22T00:00:00.000Z
   completed: false
 - location: Tanzlounge (Culture Clash by 3Klang e.V.), Augsburg
-  date: 03.05.2019
+  date: 2019-05-03T00:00:00.000Z
   completed: false
 - location: Lindenkeller (Culture Clash by 3Klang e.V.), Freising
-  date: 30.04.2019
+  date: 2019-04-30T00:00:00.000Z
   completed: false
 - location: Feierwerk (Culture Clash by 3Klang e.V.), München
-  date: 27.04.2019
+  date: 2019-04-27T00:00:00.000Z
   completed: false
 - location: Lindenkeller (Rainer von Vielen Support), Freising
-  date: 02.03.2019
+  date: 2019-03-02T00:00:00.000Z
   completed: true
 - location: Backstage Club (Emergenza Festival), München
-  date: 01.02.2019
+  date: 2019-02-01T00:00:00.000Z
   completed: true
 - location: Bouldernight, Freising
-  date: 12.01.2019
+  date: 2019-01-12T00:00:00.000Z
   completed: true
-- location: 'Furtnerbräu, Freising '
-  date: 22.12.2018
+- location: "Furtnerbräu, Freising "
+  date: 2018-12-22T00:00:00.000Z
   completed: true
 - location: Studentenwohnheim 2 Bar Freising
-  date: 22.10.2018
+  date: 2018-10-22T00:00:00.000Z
   completed: true
 - location: Aster Sommer Fest
-  date: 01.09.2018
+  date: 2018-09-01T00:00:00.000Z
   completed: true
 - location: Kultur ab Hof, Ach (AT)
-  date: 21.07.2018
+  date: 2018-07-21T00:00:00.000Z
   completed: true
 - location: Bouldernight Freising
   completed: true
-  date: 13.01.2018
+  date: 2018-01-13T00:00:00.000Z
 - location: Fest der Sinne Nandlstadt
-  date: 24.06.2017
+  date: 2017-06-24T00:00:00.000Z
   completed: true
 - location: Uferlos Festival Freising
   completed: true
-  date: 19.05.2017
+  date: 2017-05-19T00:00:00.000Z
 - location: Nacht der Musik Freising
-  date: 13.05.2017
+  date: 2017-05-13T00:00:00.000Z
   completed: true
 - location: Alte Mälzerei Regensburg
-  date: 07.10.2016
+  date: 2016-10-07T00:00:00.000Z
   completed: true
