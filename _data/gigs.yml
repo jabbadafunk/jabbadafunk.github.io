@@ -1,49 +1,52 @@
 ---
+- location: Waldstraße4-Bar, Murnau
+  date: 2019-03-29 20:00:00 +0000
+  completed: true
 - location: Wudzdog Open Air, Dornstadt
-  date: 2019-06-22T00:00:00.000Z
+  date: 2019-06-22 00:00:00 +0000
   completed: false
 - location: Tanzlounge (Culture Clash by 3Klang e.V.), Augsburg
-  date: 2019-05-03T00:00:00.000Z
+  date: 2019-05-03 00:00:00 +0000
   completed: false
 - location: Lindenkeller (Culture Clash by 3Klang e.V.), Freising
-  date: 2019-04-30T00:00:00.000Z
+  date: 2019-04-30 00:00:00 +0000
   completed: false
 - location: Feierwerk (Culture Clash by 3Klang e.V.), München
-  date: 2019-04-27T00:00:00.000Z
+  date: 2019-04-27 00:00:00 +0000
   completed: false
 - location: Lindenkeller (Rainer von Vielen Support), Freising
-  date: 2019-03-02T00:00:00.000Z
+  date: 2019-03-02 00:00:00 +0000
   completed: true
 - location: Backstage Club (Emergenza Festival), München
-  date: 2019-02-01T00:00:00.000Z
+  date: 2019-02-01 00:00:00 +0000
   completed: true
 - location: Bouldernight, Freising
-  date: 2019-01-12T00:00:00.000Z
+  date: 2019-01-12 00:00:00 +0000
   completed: true
-- location: "Furtnerbräu, Freising "
-  date: 2018-12-22T00:00:00.000Z
+- location: 'Furtnerbräu, Freising '
+  date: 2018-12-22 00:00:00 +0000
   completed: true
 - location: Studentenwohnheim 2 Bar Freising
-  date: 2018-10-22T00:00:00.000Z
+  date: 2018-10-22 00:00:00 +0000
   completed: true
 - location: Aster Sommer Fest
-  date: 2018-09-01T00:00:00.000Z
+  date: 2018-09-01 00:00:00 +0000
   completed: true
 - location: Kultur ab Hof, Ach (AT)
-  date: 2018-07-21T00:00:00.000Z
+  date: 2018-07-21 00:00:00 +0000
   completed: true
 - location: Bouldernight Freising
   completed: true
-  date: 2018-01-13T00:00:00.000Z
+  date: 2018-01-13 00:00:00 +0000
 - location: Fest der Sinne Nandlstadt
-  date: 2017-06-24T00:00:00.000Z
+  date: 2017-06-24 00:00:00 +0000
   completed: true
 - location: Uferlos Festival Freising
   completed: true
-  date: 2017-05-19T00:00:00.000Z
+  date: 2017-05-19 00:00:00 +0000
 - location: Nacht der Musik Freising
-  date: 2017-05-13T00:00:00.000Z
+  date: 2017-05-13 00:00:00 +0000
   completed: true
 - location: Alte Mälzerei Regensburg
-  date: 2016-10-07T00:00:00.000Z
+  date: 2016-10-07 00:00:00 +0000
   completed: true
