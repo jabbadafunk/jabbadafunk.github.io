@@ -1,7 +1,4 @@
 ---
-- location: Waldstraße4-Bar, Murnau
-  date: 2019-03-29 20:00:00 +0000
-  completed: true
 - location: Wudzdog Open Air, Dornstadt
   date: 2019-06-22 00:00:00 +0000
   completed: false
@@ -13,6 +10,9 @@
   completed: false
 - location: Feierwerk (Culture Clash by 3Klang e.V.), München
   date: 2019-04-27 00:00:00 +0000
+  completed: false
+- location: Waldstraße4-Bar, Murnau
+  date: 2019-03-29 20:00:00 +0000
   completed: false
 - location: Lindenkeller (Rainer von Vielen Support), Freising
   date: 2019-03-02 00:00:00 +0000
