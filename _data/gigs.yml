@@ -1,24 +1,24 @@
 ---
-- location: Furtner Nacht der Musik, Freising
-  date: 2019-05-10 22:00:00 +0000
-  completed: false
-- location: 'Rosa Laub Festival, Vornbach am Inn '
-  date: 2019-07-13 14:30:00 +0000
-  completed: false
-- location: Wudzdog Open Air, Dornstadt
-  date: 2019-06-22 00:00:00 +0000
-  completed: false
-- location: Emergenza Semifinale, München
-  date: 2019-05-04 20:09:00 +0000
-  completed: false
-- location: Tanzlounge (Culture Clash by 3Klang e.V.), Augsburg
-  date: 2019-05-03 00:00:00 +0000
+- location: Feierwerk Südpolstation (Culture Clash by 3Klang e.V.), München
+  date: 2019-04-26 00:00:00 +0000
   completed: false
 - location: Lindenkeller (Culture Clash by 3Klang e.V.), Freising
   date: 2019-04-30 00:00:00 +0000
   completed: false
-- location: Feierwerk Südpolstation (Culture Clash by 3Klang e.V.), München
-  date: 2019-04-26 00:00:00 +0000
+- location: Tanzlounge (Culture Clash by 3Klang e.V.), Augsburg
+  date: 2019-05-03 00:00:00 +0000
+  completed: false
+- location: Emergenza Semifinale, München
+  date: 2019-05-04 20:09:00 +0000
+  completed: false
+- location: Furtner Nacht der Musik, Freising
+  date: 2019-05-10 22:00:00 +0000
+  completed: false
+- location: Wudzdog Open Air, Dornstadt
+  date: 2019-06-22 00:00:00 +0000
+  completed: false
+- location: 'Rosa Laub Festival, Vornbach am Inn '
+  date: 2019-07-13 14:30:00 +0000
   completed: false
 - location: Waldstraße4-Bar, Murnau
   date: 2019-03-29 20:00:00 +0000
