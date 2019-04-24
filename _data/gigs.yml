@@ -19,7 +19,7 @@
   completed: false
 - location: Rock am Rothenberg Festival
   date: 2019-07-19 22:00:00 +0000
-  completed: ''
+  completed: false
 - location: Waldstraße4-Bar, Murnau
   date: 2019-03-29 20:00:00 +0000
   completed: true
