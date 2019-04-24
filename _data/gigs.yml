@@ -1,7 +1,4 @@
 ---
-- location: Rock am Rothenberg Festival
-  date: 2019-07-19 22:00:00 +0000
-  completed: ''
 - location: Feierwerk Südpolstation (Culture Clash by 3Klang e.V.), München
   date: 2019-04-26 00:00:00 +0000
   completed: false
@@ -20,6 +17,9 @@
 - location: 'Rosa Laub Festival, Vornbach am Inn '
   date: 2019-07-13 14:30:00 +0000
   completed: false
+- location: Rock am Rothenberg Festival
+  date: 2019-07-19 22:00:00 +0000
+  completed: ''
 - location: Waldstraße4-Bar, Murnau
   date: 2019-03-29 20:00:00 +0000
   completed: true
