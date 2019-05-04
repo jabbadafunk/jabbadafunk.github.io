@@ -1,18 +1,9 @@
 ---
-- location: Nacht der Musik Freising, Furtner Bräu
-  date: 2019-05-11 19:00:00 +0000
-  completed: false
-- location: Feierwerk Südpolstation (Culture Clash by 3Klang e.V.), München
-  date: 2019-04-26 00:00:00 +0000
-  completed: false
-- location: Lindenkeller (Culture Clash by 3Klang e.V.), Freising
-  date: 2019-04-30T00:00:00.000+00:00
-  completed: false
-- location: Tanzlounge (powered by Sazkultur Augsburg), Augsburg
-  date: 2019-05-03T00:00:00.000+00:00
-  completed: false
 - location: Emergenza Semifinale, München
   date: 2019-05-04 20:09:00 +0000
+  completed: false
+- location: Nacht der Musik Freising, Furtner Bräu
+  date: 2019-05-11 19:00:00 +0000
   completed: false
 - location: Wudzdog Open Air, Dornstadt
   date: 2019-06-22T00:00:00.000+00:00
@@ -23,6 +14,15 @@
 - location: Rock am Rothenberg Open Air, Enzenreuth
   date: 2019-07-20 09:00:00 +0000
   completed: false
+- location: Tanzlounge (powered by Sazkultur Augsburg), Augsburg
+  date: 2019-05-03T00:00:00.000+00:00
+  completed: true
+- location: Lindenkeller (Culture Clash by 3Klang e.V.), Freising
+  date: 2019-04-30T00:00:00.000+00:00
+  completed: true
+- location: Feierwerk Südpolstation (Culture Clash by 3Klang e.V.), München
+  date: 2019-04-26 00:00:00 +0000
+  completed: true
 - location: Waldstraße4-Bar, Murnau
   date: 2019-03-29 20:00:00 +0000
   completed: true
