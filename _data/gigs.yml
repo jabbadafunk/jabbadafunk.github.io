@@ -1,7 +1,4 @@
 ---
-- location: Emergenza Semifinale, München
-  date: 2019-05-04 20:09:00 +0000
-  completed: false
 - location: Nacht der Musik Freising, Furtner Bräu
   date: 2019-05-11 19:00:00 +0000
   completed: false
@@ -10,6 +7,9 @@
   completed: false
 - location: Wudzdog Open Air, Dornstadt
   date: 2019-06-22T00:00:00.000+00:00
+  completed: false
+- location: Emergenza Finale, Backstage München
+  date: 2019-06-29 19:00:00 +0000
   completed: false
 - location: 'Rosa Laub Festival, Vornbach am Inn '
   date: 2019-07-13 14:30:00 +0000
@@ -20,6 +20,9 @@
 - location: 'Bolzen Bike Fest, Regensburg '
   date: 2019-07-27 19:00:00 +0000
   completed: false
+- location: Emergenza Semifinale, München
+  date: 2019-05-04 20:09:00 +0000
+  completed: true
 - location: Tanzlounge (powered by Sazkultur Augsburg), Augsburg
   date: 2019-05-03T00:00:00.000+00:00
   completed: true
