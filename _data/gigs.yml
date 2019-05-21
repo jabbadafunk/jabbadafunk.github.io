@@ -1,7 +1,7 @@
 ---
 - location: Nacht der Musik Freising, Furtner Bräu
   date: 2019-05-11 19:00:00 +0000
-  completed: false
+  completed: true
 - location: GARNIX Open Air TU München, Garching
   date: 2019-06-04 14:00:00 +0000
   completed: false
