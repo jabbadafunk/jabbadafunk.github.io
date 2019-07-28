@@ -1,10 +1,10 @@
 ---
-- location: 'Bolzen Bike Fest, Regensburg '
-  date: 2019-07-27 19:00:00 +0000
-  completed: true
 - location: Humulus Lupulus Open Air, Scheyern
   date: 2019-08-03 18:00:00 +0000
   completed: false
+- location: 'Bolzen Bike Fest, Regensburg '
+  date: 2019-07-27 19:00:00 +0000
+  completed: true
 - location: Rock am Rothenberg Open Air, Enzenreuth
   date: 2019-07-20 09:00:00 +0000
   completed: true
