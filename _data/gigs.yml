@@ -1,16 +1,16 @@
 ---
-- location: 'Rosa Laub Festival, Vornbach am Inn '
-  date: 2019-07-19 21:46:00 +0000
-  completed: false
-- location: Rock am Rothenberg Open Air, Enzenreuth
-  date: 2019-07-20 09:00:00 +0000
-  completed: false
 - location: 'Bolzen Bike Fest, Regensburg '
   date: 2019-07-27 19:00:00 +0000
-  completed: false
+  completed: true
 - location: Humulus Lupulus Open Air, Scheyern
   date: 2019-08-03 18:00:00 +0000
   completed: false
+- location: Rock am Rothenberg Open Air, Enzenreuth
+  date: 2019-07-20 09:00:00 +0000
+  completed: true
+- location: 'Rosa Laub Festival, Vornbach am Inn '
+  date: 2019-07-19 21:46:00 +0000
+  completed: true
 - location: Emergenza Finale, Backstage München
   date: 2019-06-29 19:00:00 +0000
   completed: true
