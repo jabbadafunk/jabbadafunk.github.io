@@ -1,10 +1,10 @@
 ---
-- location: 'Uferlos Winterwunder Erwin & Edwin Support, Freising '
-  date: 2019-11-22 22:00:00 +0000
-  completed: false
 - location: Jabba Weihnachtskonzert Furtner, Freising
   date: 2019-12-20 22:00:00 +0000
   completed: false
+- location: 'Uferlos Winterwunder Erwin & Edwin Support, Freising '
+  date: 2019-11-22 22:00:00 +0000
+  completed: true
 - location: Wiener Gürtel - Venue folgt, Wien (AT)
   date: 2020-03-19 23:00:00 +0000
   completed: false
