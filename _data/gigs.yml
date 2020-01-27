@@ -1,39 +1,39 @@
 ---
-- location: Jabba Weihnachtskonzert Furtner, Freising
-  date: 2019-12-20 22:00:00 +0000
-  completed: false
 - location: Café Carina, Wien (AT)
-  date: 2020-03-20 18:00:00 +0000
+  date: 2020-03-20T18:00:00.000+00:00
   completed: false
+- location: Jabba Weihnachtskonzert Furtner, Freising
+  date: 2019-12-20T22:00:00.000+00:00
+  completed: true
 - location: 'Uferlos Winterwunder Erwin & Edwin Support, Freising '
-  date: 2019-11-22 22:00:00 +0000
+  date: 2019-11-22T22:00:00.000+00:00
   completed: true
 - location: Humulus Lupulus Open Air, Scheyern
-  date: 2019-08-03 18:00:00 +0000
+  date: 2019-08-03T18:00:00.000+00:00
   completed: true
 - location: 'Bolzen Bike Fest, Regensburg '
-  date: 2019-07-27 19:00:00 +0000
+  date: 2019-07-27T19:00:00.000+00:00
   completed: true
 - location: Rock am Rothenberg Open Air, Enzenreuth
-  date: 2019-07-20 09:00:00 +0000
+  date: 2019-07-20T09:00:00.000+00:00
   completed: true
 - location: 'Rosa Laub Festival, Vornbach am Inn '
-  date: 2019-07-19 21:46:00 +0000
+  date: 2019-07-19T21:46:00.000+00:00
   completed: true
 - location: Emergenza Finale, Backstage München
-  date: 2019-06-29 19:00:00 +0000
+  date: 2019-06-29T19:00:00.000+00:00
   completed: true
 - location: Wudzdog Open Air, Dornstadt
   date: 2019-06-22T00:00:00.000+00:00
   completed: true
 - location: GARNIX Open Air TU München, Garching
-  date: 2019-06-04 14:00:00 +0000
+  date: 2019-06-04T14:00:00.000+00:00
   completed: true
 - location: Nacht der Musik Freising, Furtner Bräu
-  date: 2019-05-11 19:00:00 +0000
+  date: 2019-05-11T19:00:00.000+00:00
   completed: true
 - location: Emergenza Semifinale, München
-  date: 2019-05-04 20:09:00 +0000
+  date: 2019-05-04T20:09:00.000+00:00
   completed: true
 - location: Tanzlounge (powered by Sazkultur Augsburg), Augsburg
   date: 2019-05-03T00:00:00.000+00:00
@@ -42,10 +42,10 @@
   date: 2019-04-30T00:00:00.000+00:00
   completed: true
 - location: Feierwerk Südpolstation (Culture Clash by 3Klang e.V.), München
-  date: 2019-04-26 00:00:00 +0000
+  date: 2019-04-26T00:00:00.000+00:00
   completed: true
 - location: Waldstraße4-Bar, Murnau
-  date: 2019-03-29 20:00:00 +0000
+  date: 2019-03-29T20:00:00.000+00:00
   completed: true
 - location: Lindenkeller (Rainer von Vielen Support), Freising
   date: 2019-03-02T00:00:00.000+00:00
