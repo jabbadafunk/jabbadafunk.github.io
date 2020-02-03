@@ -1,9 +1,9 @@
 ---
-- location: TUNIX Open Air - Königsplatz, München
-  date: 2020-06-08 22:00:00 +0000
-  completed: false
 - location: Café Carina, Wien (AT)
   date: 2020-03-20T18:00:00.000+00:00
+  completed: false
+- location: TUNIX Open Air - Königsplatz, München
+  date: 2020-06-09 17:00:00 +0000
   completed: false
 - location: Jabba Weihnachtskonzert Furtner, Freising
   date: 2019-12-20T22:00:00.000+00:00
