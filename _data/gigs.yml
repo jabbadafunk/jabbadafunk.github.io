@@ -1,10 +1,19 @@
 ---
-- location: 'Abgesagt: Uferlos Festival - Vimpay Zelt Fr. 19:00 Uhr, Freising'
-  date: 2020-05-15 17:00:00 +0000
+- location: Studenten-Wohnheim 1, Weihenstephan I, Freising
+  date: 2022-06-11 20:00:00 +0000
   completed: false
-- location: TUNIX Open Air - Di. 19:00 Uhr - Königsplatz, München
-  date: 2020-06-09 17:00:00 +0000
+- location: TUNIX OpenAir, TUM Hauptcampus, Arcisstraße, München
+  date: 2022-07-05 19:00:00 +0000
   completed: false
+- location: Kultur ab Hof, Ach (AT)
+  date: 2022-07-30T00:00:00.000+00:00
+  completed: false
+- location: 10 Jahre Furtner Straßenfest, Freising
+  date: 2022-05-28 20:00:00 +0000
+  completed: true
+- location: Kulturspektakel - Gauting, München
+  date: 2021-07-24 17:30:00 +0000
+  completed: true
 - location: Jabba Weihnachtskonzert Furtner, Freising
   date: 2019-12-20T22:00:00.000+00:00
   completed: true
