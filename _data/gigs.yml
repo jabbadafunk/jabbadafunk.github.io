@@ -1,7 +1,7 @@
 ---
 - location: Studenten-Wohnheim 1, Weihenstephan I, Freising
   date: 2022-06-11 20:00:00 +0000
-  completed: false
+  completed: true
 - location: TUNIX OpenAir, TUM Hauptcampus, Arcisstraße, München
   date: 2022-07-05 19:00:00 +0000
   completed: false
