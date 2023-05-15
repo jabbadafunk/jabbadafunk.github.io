@@ -1,9 +1,6 @@
 ---
-- location: Sommerfest Sammamera Freising, Freising
-  date: 2023-04-29 19:30:00 +0000
-  completed: false
-- location: Uferlos Freising Vimpay Zelt, Freising
-  date: 2023-05-12 19:00:00 +0000
+- location: Sommerfest im Freien Königreich Samuelien, Regensburg
+  date: 2023-05-19 15:00:00 +0000
   completed: false
 - location: Open Park Festival PFA’HOFA, Pfaffenhofen
   date: 2023-07-08 15:00:00 +0000
@@ -11,6 +8,12 @@
 - location: Ackerbeat, Waltenhausen bei Krumbach
   date: 2023-07-28 20:00:00 +0000
   completed: false
+- location: Uferlos Freising Vimpay Zelt, Freising
+  date: 2023-05-12 19:00:00 +0000
+  completed: true
+- location: Sommerfest Sammamera Freising, Freising
+  date: 2023-04-29 19:30:00 +0000
+  completed: true
 - location: Kultur ab Hof, Ach (AT)
   date: 2022-07-30T00:00:00.000+00:00
   completed: true
