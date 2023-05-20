@@ -1,13 +1,16 @@
 ---
-- location: Sommerfest im Freien Königreich Samuelien, Regensburg
-  date: 2023-05-19 15:00:00 +0000
-  completed: false
 - location: Open Park Festival PFA’HOFA, Pfaffenhofen
   date: 2023-07-08 15:00:00 +0000
+  completed: false
+- location: Bolzenfest, Lichtenfels
+  date: 2023-07-22 15:00:00 +0000
   completed: false
 - location: Ackerbeat, Waltenhausen bei Krumbach
   date: 2023-07-28 20:00:00 +0000
   completed: false
+- location: Sommerfest im Freien Königreich Samuelien, Regensburg
+  date: 2023-05-19 15:00:00 +0000
+  completed: true
 - location: Uferlos Freising Vimpay Zelt, Freising
   date: 2023-05-12 19:00:00 +0000
   completed: true
